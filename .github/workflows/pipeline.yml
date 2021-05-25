@@ -35,3 +35,4 @@ jobs:
           heroku_email: 'oshusspinn@hotmail.com'
           healthcheck: 'https://pokedex-31796.herokuapp.com/health'
           checkstring: 'ok'
+          rollbackonhealthcheckfailed: true
