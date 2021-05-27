@@ -49,6 +49,6 @@ jobs:
           DEFAULT_BUMP: patch
           WITH_V: false
           RELEASE_BRANCHES: master
-          DRY_RUN: true
+          DRY_RUN: false
           INITIAL_VERSION: 0.1.0
           
